@@ -1,0 +1,1104 @@
+{
+  "the": {
+    "count": 61196,
+    "details": [
+      {
+        "text": "the",
+        "pos": "determiner",
+        "ts": "ðiː",
+        "tr": [
+          {
+            "text": "-",
+            "ex": [
+              {
+                "text": "give me the money",
+                "tr": [
+                  {
+                    "text": "отдай мне деньги"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "этот",
+            "pos": "pronoun",
+            "mean": [
+              {
+                "text": "this"
+              }
+            ],
+            "ex": [
+              {
+                "text": "I didn't like the book",
+                "tr": [
+                  {
+                    "text": "эта книга мне не понравилась"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "тот",
+            "pos": "pronoun",
+            "syn": [
+              {
+                "text": "тот самый",
+                "pos": "pronoun"
+              }
+            ],
+            "mean": [
+              {
+                "text": "that"
+              }
+            ],
+            "ex": [
+              {
+                "text": "the woman I told you about",
+                "tr": [
+                  {
+                    "text": "та женщина, о которой я тебе рассказывал"
+                  }
+                ]
+              },
+              {
+                "text": "this is the guy",
+                "tr": [
+                  {
+                    "text": "это тот самый человек"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "такой",
+            "pos": "pronoun",
+            "mean": [
+              {
+                "text": "such"
+              }
+            ],
+            "ex": [
+              {
+                "text": "not the man to shrink form responsibility",
+                "tr": [
+                  {
+                    "text": "не такой человек, чтобы бежать от ответственности"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "the",
+        "pos": "adverb",
+        "ts": "ðiː",
+        "tr": [
+          {
+            "text": "тем",
+            "pos": "conjunction",
+            "ex": [
+              {
+                "text": "the more the better",
+                "tr": [
+                  {
+                    "text": "чем больше, тем лучше"
+                  }
+                ]
+              },
+              {
+                "text": "so much the worse",
+                "tr": [
+                  {
+                    "text": "тем хуже"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "of": {
+    "count": 34754,
+    "details": [
+      {
+        "text": "of",
+        "pos": "preposition",
+        "ts": "ɔv",
+        "tr": [
+          {
+            "text": "из",
+            "pos": "preposition",
+            "syn": [
+              {
+                "text": "от",
+                "pos": "preposition"
+              },
+              {
+                "text": "с",
+                "pos": "preposition"
+              },
+              {
+                "text": "при",
+                "pos": "preposition"
+              },
+              {
+                "text": "среди",
+                "pos": "preposition"
+              }
+            ],
+            "mean": [
+              {
+                "text": "from"
+              }
+            ],
+            "ex": [
+              {
+                "text": "out of curiosity",
+                "tr": [
+                  {
+                    "text": "из любопытства"
+                  }
+                ]
+              },
+              {
+                "text": "irrespective of age",
+                "tr": [
+                  {
+                    "text": "независимо от возраста"
+                  }
+                ]
+              },
+              {
+                "text": "ahead of schedule",
+                "tr": [
+                  {
+                    "text": "с опережением графика"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "о",
+            "pos": "preposition",
+            "syn": [
+              {
+                "text": "в",
+                "pos": "preposition"
+              },
+              {
+                "text": "об",
+                "pos": "preposition"
+              },
+              {
+                "text": "относительно",
+                "pos": "preposition"
+              },
+              {
+                "text": "по",
+                "pos": "preposition"
+              },
+              {
+                "text": "на",
+                "pos": "preposition"
+              },
+              {
+                "text": "к",
+                "pos": "preposition"
+              }
+            ],
+            "mean": [
+              {
+                "text": "on"
+              },
+              {
+                "text": "in"
+              },
+              {
+                "text": "about"
+              },
+              {
+                "text": "for"
+              }
+            ],
+            "ex": [
+              {
+                "text": "memorandum of understanding",
+                "tr": [
+                  {
+                    "text": "меморандум о взаимопонимании"
+                  }
+                ]
+              },
+              {
+                "text": "instrument of accession",
+                "tr": [
+                  {
+                    "text": "документ о присоединении"
+                  }
+                ]
+              },
+              {
+                "text": "table of ranks",
+                "tr": [
+                  {
+                    "text": "табель о рангах"
+                  }
+                ]
+              },
+              {
+                "text": "offer of cooperation",
+                "tr": [
+                  {
+                    "text": "предложение о сотрудничестве"
+                  }
+                ]
+              },
+              {
+                "text": "because of",
+                "tr": [
+                  {
+                    "text": "по причине"
+                  }
+                ]
+              },
+              {
+                "text": "because of nerves",
+                "tr": [
+                  {
+                    "text": "на нервной почве"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "of",
+        "pos": "adverb",
+        "ts": "ɔv",
+        "tr": [
+          {
+            "text": "из числа",
+            "pos": "adverb"
+          }
+        ]
+      }
+    ]
+  },
+  "and": {
+    "count": 30996,
+    "details": [
+      {
+        "text": "and",
+        "pos": "conjunction",
+        "ts": "ænd",
+        "tr": [
+          {
+            "text": "и",
+            "pos": "conjunction",
+            "syn": [
+              {
+                "text": "а",
+                "pos": "conjunction"
+              }
+            ],
+            "mean": [
+              {
+                "text": "or"
+              },
+              {
+                "text": "as"
+              }
+            ]
+          },
+          {
+            "text": "а также",
+            "pos": "conjunction",
+            "mean": [
+              {
+                "text": "as well as"
+              }
+            ]
+          },
+          {
+            "text": "причем",
+            "pos": "conjunction",
+            "syn": [
+              {
+                "text": "но",
+                "pos": "conjunction"
+              }
+            ],
+            "mean": [
+              {
+                "text": "while"
+              },
+              {
+                "text": "but"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "and",
+        "pos": "adverb",
+        "ts": "ænd",
+        "tr": [
+          {
+            "text": "так и",
+            "pos": "adverb",
+            "mean": [
+              {
+                "text": "as well as"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "and",
+        "pos": "preposition",
+        "ts": "ænd",
+        "tr": [
+          {
+            "text": "с",
+            "pos": "preposition",
+            "mean": [
+              {
+                "text": "with"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "to": {
+    "count": 24888,
+    "details": [
+      {
+        "text": "to",
+        "pos": "preposition",
+        "ts": "tuː",
+        "tr": [
+          {
+            "text": "к",
+            "pos": "preposition",
+            "syn": [
+              {
+                "text": "на",
+                "pos": "preposition"
+              },
+              {
+                "text": "для",
+                "pos": "preposition"
+              },
+              {
+                "text": "в",
+                "pos": "preposition"
+              },
+              {
+                "text": "по",
+                "pos": "preposition"
+              },
+              {
+                "text": "о",
+                "pos": "preposition"
+              },
+              {
+                "text": "за",
+                "pos": "preposition"
+              }
+            ],
+            "mean": [
+              {
+                "text": "for"
+              },
+              {
+                "text": "in"
+              }
+            ],
+            "ex": [
+              {
+                "text": "shoulder to shoulder",
+                "tr": [
+                  {
+                    "text": "плечо к плечу"
+                  }
+                ]
+              },
+              {
+                "text": "will to win",
+                "tr": [
+                  {
+                    "text": "воля к победе"
+                  }
+                ]
+              },
+              {
+                "text": "yield to maturity",
+                "tr": [
+                  {
+                    "text": "доходность к погашению"
+                  }
+                ]
+              },
+              {
+                "text": "sensitive to light",
+                "tr": [
+                  {
+                    "text": "чувствительный к свету"
+                  }
+                ]
+              },
+              {
+                "text": "path to peace",
+                "tr": [
+                  {
+                    "text": "путь к миру"
+                  }
+                ]
+              },
+              {
+                "text": "doomed to failure",
+                "tr": [
+                  {
+                    "text": "обреченный на провал"
+                  }
+                ]
+              },
+              {
+                "text": "return to earth",
+                "tr": [
+                  {
+                    "text": "возвращение на землю"
+                  }
+                ]
+              },
+              {
+                "text": "to frighten",
+                "tr": [
+                  {
+                    "text": "для устрашения"
+                  }
+                ]
+              },
+              {
+                "text": "easy to use",
+                "tr": [
+                  {
+                    "text": "легкий в использовании"
+                  }
+                ]
+              },
+              {
+                "text": "to my knowledge",
+                "tr": [
+                  {
+                    "text": "по моим сведениям"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "с",
+            "pos": "preposition",
+            "syn": [
+              {
+                "text": "до",
+                "pos": "preposition"
+              },
+              {
+                "text": "от",
+                "pos": "preposition"
+              },
+              {
+                "text": "перед",
+                "pos": "preposition"
+              }
+            ],
+            "mean": [
+              {
+                "text": "up"
+              },
+              {
+                "text": "from"
+              },
+              {
+                "text": "before"
+              }
+            ],
+            "ex": [
+              {
+                "text": "to the bone",
+                "tr": [
+                  {
+                    "text": "до костей"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "to",
+        "pos": "conjunction",
+        "ts": "tuː",
+        "tr": [
+          {
+            "text": "чтобы",
+            "pos": "conjunction",
+            "syn": [
+              {
+                "text": "для того чтобы",
+                "pos": "conjunction"
+              },
+              {
+                "text": "дабы",
+                "pos": "conjunction"
+              }
+            ],
+            "ex": [
+              {
+                "text": "so as to",
+                "tr": [
+                  {
+                    "text": "так чтобы"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "to",
+        "pos": "particle",
+        "ts": "tuː",
+        "tr": [
+          {
+            "text": "бы",
+            "pos": "particle"
+          }
+        ]
+      },
+      {
+        "text": "to",
+        "pos": "adjective",
+        "ts": "tuː",
+        "tr": [
+          {
+            "text": "должно",
+            "pos": "adjective"
+          }
+        ]
+      },
+      {
+        "text": "to",
+        "pos": "pronoun",
+        "ts": "tuː",
+        "tr": [
+          {
+            "text": "который",
+            "pos": "pronoun",
+            "mean": [
+              {
+                "text": "which"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "to",
+        "pos": "adverb",
+        "ts": "tuː",
+        "tr": [
+          {
+            "text": "с целью",
+            "pos": "adverb",
+            "mean": [
+              {
+                "text": "for the purpose"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "in": {
+    "count": 17461,
+    "details": [
+      {
+        "text": "in",
+        "pos": "preposition",
+        "ts": "ɪn",
+        "tr": [
+          {
+            "text": "в",
+            "pos": "preposition",
+            "syn": [
+              {
+                "text": "на",
+                "pos": "preposition"
+              },
+              {
+                "text": "за",
+                "pos": "preposition"
+              },
+              {
+                "text": "по",
+                "pos": "preposition"
+              },
+              {
+                "text": "при",
+                "pos": "preposition"
+              },
+              {
+                "text": "у",
+                "pos": "preposition"
+              },
+              {
+                "text": "к",
+                "pos": "preposition"
+              },
+              {
+                "text": "для",
+                "pos": "preposition"
+              },
+              {
+                "text": "под",
+                "pos": "preposition"
+              },
+              {
+                "text": "среди",
+                "pos": "preposition"
+              }
+            ],
+            "mean": [
+              {
+                "text": "to"
+              },
+              {
+                "text": "on"
+              },
+              {
+                "text": "for"
+              },
+              {
+                "text": "with"
+              },
+              {
+                "text": "at"
+              },
+              {
+                "text": "among"
+              }
+            ],
+            "ex": [
+              {
+                "text": "in principle",
+                "tr": [
+                  {
+                    "text": "в принципе"
+                  }
+                ]
+              },
+              {
+                "text": "in close proximity",
+                "tr": [
+                  {
+                    "text": "в непосредственной близости"
+                  }
+                ]
+              },
+              {
+                "text": "in alphabetical order",
+                "tr": [
+                  {
+                    "text": "в алфавитном порядке"
+                  }
+                ]
+              },
+              {
+                "text": "in one day",
+                "tr": [
+                  {
+                    "text": "в один день"
+                  }
+                ]
+              },
+              {
+                "text": "in two stages",
+                "tr": [
+                  {
+                    "text": "в два этапа"
+                  }
+                ]
+              },
+              {
+                "text": "in its turn",
+                "tr": [
+                  {
+                    "text": "в свою очередь"
+                  }
+                ]
+              },
+              {
+                "text": "in his absence",
+                "tr": [
+                  {
+                    "text": "в его отсутствие"
+                  }
+                ]
+              },
+              {
+                "text": "in the sun",
+                "tr": [
+                  {
+                    "text": "на солнце"
+                  }
+                ]
+              },
+              {
+                "text": "in recent years",
+                "tr": [
+                  {
+                    "text": "за последние годы"
+                  }
+                ]
+              },
+              {
+                "text": "in all directions",
+                "tr": [
+                  {
+                    "text": "по всем направлениям"
+                  }
+                ]
+              },
+              {
+                "text": "in private",
+                "tr": [
+                  {
+                    "text": "при закрытых дверях"
+                  }
+                ]
+              },
+              {
+                "text": "in control",
+                "tr": [
+                  {
+                    "text": "у власти"
+                  }
+                ]
+              },
+              {
+                "text": "in shore",
+                "tr": [
+                  {
+                    "text": "к берегу"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "из",
+            "pos": "preposition",
+            "mean": [
+              {
+                "text": "of"
+              }
+            ],
+            "ex": [
+              {
+                "text": "in gratitude",
+                "tr": [
+                  {
+                    "text": "из благодарности"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "внутри",
+            "pos": "preposition",
+            "mean": [
+              {
+                "text": "inside"
+              }
+            ]
+          },
+          {
+            "text": "через",
+            "pos": "preposition",
+            "mean": [
+              {
+                "text": "through"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "in",
+        "pos": "adverb",
+        "ts": "ɪn",
+        "tr": [
+          {
+            "text": "во время",
+            "pos": "adverb",
+            "mean": [
+              {
+                "text": "during"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "in",
+        "ts": "ɪn",
+        "tr": [
+          {
+            "text": "in"
+          }
+        ]
+      }
+    ]
+  },
+  "that": {
+    "count": 9841,
+    "details": [
+      {
+        "text": "that",
+        "pos": "conjunction",
+        "ts": "ðæt",
+        "tr": [
+          {
+            "text": "что",
+            "pos": "conjunction",
+            "syn": [
+              {
+                "text": "чтоб",
+                "pos": "conjunction"
+              }
+            ],
+            "mean": [
+              {
+                "text": "how"
+              }
+            ]
+          },
+          {
+            "text": "будто",
+            "pos": "conjunction",
+            "mean": [
+              {
+                "text": "if"
+              }
+            ]
+          },
+          {
+            "text": "дабы",
+            "pos": "conjunction",
+            "mean": [
+              {
+                "text": "to"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "that",
+        "pos": "pronoun",
+        "ts": "ðæt",
+        "tr": [
+          {
+            "text": "который",
+            "pos": "pronoun",
+            "mean": [
+              {
+                "text": "which"
+              }
+            ]
+          },
+          {
+            "text": "это",
+            "pos": "pronoun",
+            "syn": [
+              {
+                "text": "таковой",
+                "pos": "pronoun"
+              }
+            ],
+            "mean": [
+              {
+                "text": "it"
+              },
+              {
+                "text": "such"
+              }
+            ]
+          },
+          {
+            "text": "тот самый",
+            "pos": "pronoun"
+          }
+        ]
+      },
+      {
+        "text": "that",
+        "pos": "adverb",
+        "ts": "ðæt",
+        "tr": [
+          {
+            "text": "так",
+            "pos": "adverb",
+            "mean": [
+              {
+                "text": "so"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "was": {
+    "count": 9752,
+    "details": []
+  },
+  "he": {
+    "count": 8367,
+    "details": [
+      {
+        "text": "he",
+        "pos": "pronoun",
+        "ts": "hiː",
+        "tr": [
+          {
+            "text": "он",
+            "pos": "pronoun",
+            "ex": [
+              {
+                "text": "look at him",
+                "tr": [
+                  {
+                    "text": "посмотри на него"
+                  }
+                ]
+              },
+              {
+                "text": "attached to him",
+                "tr": [
+                  {
+                    "text": "привязан к нему"
+                  }
+                ]
+              },
+              {
+                "text": "he came",
+                "tr": [
+                  {
+                    "text": "он пришел"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "тот",
+            "pos": "pronoun",
+            "ex": [
+              {
+                "text": "he of whom you speak",
+                "tr": [
+                  {
+                    "text": "тот, о ком вы говорите"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "he",
+        "pos": "noun",
+        "ts": "hiː",
+        "tr": [
+          {
+            "text": "мужская особь",
+            "pos": "noun",
+            "gen": "ж",
+            "mean": [
+              {
+                "text": "male"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "is": {
+    "count": 8262,
+    "details": []
+  },
+  "his": {
+    "count": 8220,
+    "details": [
+      {
+        "text": "his",
+        "pos": "pronoun",
+        "ts": "hɪz",
+        "tr": [
+          {
+            "text": "его",
+            "pos": "pronoun",
+            "syn": [
+              {
+                "text": "свой",
+                "pos": "pronoun"
+              }
+            ],
+            "ex": [
+              {
+                "text": "his chair",
+                "tr": [
+                  {
+                    "text": "его стул"
+                  }
+                ]
+              },
+              {
+                "text": "he ate his dinner",
+                "tr": [
+                  {
+                    "text": "он ел свой обед"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
